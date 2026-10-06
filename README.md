@@ -6,7 +6,7 @@ This repository contains the official dataset page for the **Gallbladder Cancer 
 
 The complete dataset is available on Kaggle:
 
-**[https://www.kaggle.com/datasets/nityajitani/gallbladder-cancer-gbc-image-dataset](https://www.kaggle.com/dsv/16982642)**
+**[(https://www.kaggle.com/datasets/compbiomedai/gallbladder-cancer-gbc-image-dataset)]**
 
 ## Kaggle API
 
